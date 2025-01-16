@@ -1,2 +1,1 @@
-- [Visit Page 1](http://127.0.0.1:5501/plantpage1.html)
-- [Visit Page 2](http://127.0.0.1:5501/plantsubpage.html)
+https://gaddalecharmi.github.io/ISTE_WEB/
